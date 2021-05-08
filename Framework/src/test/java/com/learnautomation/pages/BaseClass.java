@@ -29,6 +29,9 @@ public class BaseClass {
 	public ExtentTest logger;
 	
 	//commit2
+	
+	//commit4
+	
 	@BeforeSuite
 	public void setupSuite(){
 		
